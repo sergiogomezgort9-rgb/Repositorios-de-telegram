@@ -3,67 +3,6 @@ Cómo crear un de telegram
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Sergio Bot - Documentación</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #0f172a;
-      color: #e5e7eb;
-    }
-    header {
-      background: #020617;
-      padding: 20px;
-      text-align: center;
-      border-bottom: 1px solid #1e293b;
-    }
-    header h1 {
-      margin: 0;
-      color: #38bdf8;
-    }
-    main {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-    section {
-      margin-bottom: 40px;
-      background: #020617;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.4);
-    }
-    h2 {
-      color: #38bdf8;
-      border-bottom: 1px solid #1e293b;
-      padding-bottom: 5px;
-    }
-    pre {
-      background: #020617;
-      border: 1px solid #1e293b;
-      padding: 15px;
-      border-radius: 8px;
-      overflow-x: auto;
-      color: #a5f3fc;
-    }
-    code {
-      color: #a5f3fc;
-    }
-    ul li {
-      margin-bottom: 6px;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      color: #64748b;
-      border-top: 1px solid #1e293b;
-    }
-  </style>
-</head>
-<body>
-
 <header>
   <h1>🤖 Sergio Bot - Telegram</h1>
   <p>Documentación oficial del proyecto</p>
