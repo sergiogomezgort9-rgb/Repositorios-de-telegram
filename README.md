@@ -84,12 +84,26 @@ Cómo crear un de telegram
 <section>
   <h2>🛠️ Instalación en Termux</h2>
   <pre><code>pkg update && pkg upgrade
-pkg install nodejs git
+pkg install nodejs git</code></pre>
+</section>
+<pre><code>
 node -v
+  </code></pre>
+</section>
+<pre><code>
 npm -v
+  </code></pre>
+</section>
+<pre><code>
 mkdir telegram-bot
 cd telegram-bot
+  </code></pre>
+</section>
+<pre><code>
 npm init -y
+  </code></pre>
+</section>
+<pre><code>
 npm install node-telegram-bot-api
 nano index.js</code></pre>
 </section>
